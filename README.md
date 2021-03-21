@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vallabhT
+- 👋 Hi, I’m Vallabh
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning Deep learning models
 - 💞️ I’m looking to collaborate on projects related to NLP or Image processing
